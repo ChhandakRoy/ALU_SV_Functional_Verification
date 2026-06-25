@@ -31,7 +31,7 @@ coverage collection, and a self-checking scoreboard.
 
 ## Testbench Architecture
 
-![TB Architecture](testbench environment/ALU_testbench_environemnt.png)
+![TB Architecture](tb_environment/ALU_testbench_environment.png)
 
 | Component | Role |
 |-----------|------|
