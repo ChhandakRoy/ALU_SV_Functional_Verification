@@ -78,4 +78,4 @@ coverage collection, and a self-checking scoreboard.
 ## Author
 **Chhandak Roy**  
 M.Tech VLSI & Nanoelectronics, IIT Guwahati (2024–2026)  
-[LinkedIn](www.linkedin.com/in/chhandak-roy-profile)
+[LinkedIn](https://www.linkedin.com/in/chhandak-roy-profile/)
